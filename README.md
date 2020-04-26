@@ -4,6 +4,8 @@ In this i am rendering thorugh Pluralsights website by using my mock APIs.
 
 Mock APIs are created using JSON Server.
 
+Also used the react component LifeCycle componentDidMount .
+
 Basic Scripts used for running the app:
 
 # npm Start :
